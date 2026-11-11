@@ -121,3 +121,16 @@ of each error reason) and the validator that produces
 ## Unresolved requirements
 
 None. This contract is implementable as written.
+
+## Running the validator (implementation)
+
+- Requires Python 3.8+ with no third-party dependencies.
+- `python3 validate.py` reads `data/input.jsonl` and writes
+  `output/report.json` (created when missing).
+- `python3 validate.py <input> <output>` overrides either path.
+- Exit code `0` when a report was written. Row-level failures and a
+  row-count mismatch are data inside the report (including
+  `file_error`), not process failures. File-level failures (missing or
+  unreadable input, non-UTF-8 input bytes) exit non-zero and never
+  create or update the report file.
+- `python3 -m unittest discover -s tests` runs the test suite.

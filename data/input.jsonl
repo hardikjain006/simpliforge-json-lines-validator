@@ -1,0 +1,100 @@
+{"id": 1, "name": "Person 1", "email": "person1@example.com"}
+{"id": 2, "name": "Person 2", "email": "person2@example.com"}
+{"id": 3, "name": "Person 3", "email": "person3@example.com"}
+{"id": 4, "name": "Person 4", "email": "person4@example.com"}
+{"id": 5, "name": "Five", "email": "five@example.com"}
+{"id": 10, "name": "Person 10", "email": "person10@example.com"}
+{"id": 11, "name": "Person 11", "email": "person11@example.com"}
+{"id": 12, "name": "Person 12", "email": "person12@example.com"}
+{"id": 13, "name": "Person 13", "email": "person13@example.com"}
+
+{"id": 14, "name": "Person 14", "email": "person14@example.com"}
+{"id": 15, "name": "Person 15", "email": "person15@example.com"}
+{"id": 16, "name": "Person 16", "email": "person16@example.com"}
+{"id": 17, "name": "Person 17", "email": "person17@example.com"}
+{"id": 18, "name": "Person 18", "email": "person18@example.com"}
+{"id": 19, "name": "Person 19", "email": "person19@example.com"}
+{"id": 20, "name": "Person 20", "email": "person20@example.com"}
+{"id": 21, "name": "Person 21", "email": "person21@example.com"}
+{"id": 22, "name": "Person 22", "email": "person22@example.com"}
+{this is not json
+{"id": 23, "name": "Person 23", "email": "person23@example.com"}
+{"id": 24, "name": "Person 24", "email": "person24@example.com"}
+{"id": 25, "name": "Person 25", "email": "person25@example.com"}
+{"id": 26, "name": "Person 26", "email": "person26@example.com"}
+[1, 2, 3]
+{"id": 27, "name": "Person 27", "email": "person27@example.com"}
+{"id": 28, "name": "Person 28", "email": "person28@example.com"}
+{"id": 29, "name": "Person 29", "email": "person29@example.com"}
+{"id": 30, "name": "Person 30", "email": "person30@example.com"}
+{"id": 1.0, "name": "Float Id", "email": "float@example.com"}
+{"id": 31, "name": "Person 31", "email": "person31@example.com"}
+{"id": 32, "name": "Person 32", "email": "person32@example.com"}
+{"id": 33, "name": "Person 33", "email": "person33@example.com"}
+{"id": 34, "name": "Person 34", "email": "person34@example.com"}
+{"id": 101, "name": "Out Of Range", "email": "oor@example.com"}
+{"id": 101, "name": "Out Of Range Again", "email": "oor2@example.com"}
+{"id": 35, "name": "Person 35", "email": "person35@example.com"}
+{"id": 36, "name": "Person 36", "email": "person36@example.com"}
+{"id": 37, "name": "Person 37", "email": "person37@example.com"}
+{"name": "No Id", "email": "noid@example.com"}
+{"id": 38, "name": "Person 38", "email": "person38@example.com"}
+{"id": 42, "name": "Extra Fields", "email": "extra@example.com", "nickname": "ex", "tags": [1]}
+{"id": 43, "name": "  Padded Name\t", "email": "padded@example.com"}
+{"id": 39, "name": "Person 39", "email": "person39@example.com"}
+{"id": null, "name": "Null Id", "email": "nullid@example.com"}
+{"id": 40, "name": "Person 40", "email": "person40@example.com"}
+{"id": 41, "name": "Person 41", "email": "person41@example.com"}
+{"id": 44, "name": "Person 44", "email": "person44@example.com"}
+{"id": 45, "name": "Person 45", "email": "person45@example.com"}
+{"id": "5", "name": "String Id", "email": "strid@example.com"}
+{"id": 46, "name": "Person 46", "email": "person46@example.com"}
+{"id": 47, "name": "Person 47", "email": "person47@example.com"}
+{"id": 48, "name": "Person 48", "email": "person48@example.com"}
+{"id": 49, "name": "Person 49", "email": "person49@example.com"}
+{"id": 5, "name": "Five Again", "email": "five2@example.com"}
+{"id": 50, "name": "Person 50", "email": "person50@example.com"}
+{"id": 51, "name": "Person 51", "email": "person51@example.com"}
+{"id": 52, "name": "Person 52", "email": "person52@example.com"}
+{"id": 53, "name": "Person 53", "email": "person53@example.com"}
+{"id": 6, "name": "   ", "email": "blank@example.com"}
+{"id": 54, "name": "Person 54", "email": "person54@example.com"}
+{"id": 55, "name": "Person 55", "email": "person55@example.com"}
+{"id": 56, "name": "Person 56", "email": "person56@example.com"}
+{"id": 57, "name": "Person 57", "email": "person57@example.com"}
+{"id": 7, "email": "noname@example.com"}
+{"id": 58, "name": "Person 58", "email": "person58@example.com"}
+{"id": 59, "name": "Person 59", "email": "person59@example.com"}
+{"id": 60, "name": "Person 60", "email": "person60@example.com"}
+{"id": 61, "name": "Person 61", "email": "person61@example.com"}
+{"id": 8, "name": "Bad Email", "email": "not-an-email"}
+{"id": 62, "name": "Person 62", "email": "person62@example.com"}
+{"id": 63, "name": "Person 63", "email": "person63@example.com"}
+{"id": 64, "name": "Person 64", "email": "person64@example.com"}
+{"id": 65, "name": "Person 65", "email": "person65@example.com"}
+{"id": 9, "name": "No Email"}
+{"id": 66, "name": "Person 66", "email": "person66@example.com"}
+{"id": 67, "name": "Person 67", "email": "person67@example.com"}
+{"id": 68, "name": "Person 68", "email": "person68@example.com"}
+{"id": 69, "name": "Person 69", "email": "person69@example.com"}
+{"id": 70, "name": "Person 70", "email": "person70@example.com"}
+{"id": 71, "name": "Person 71", "email": "person71@example.com"}
+{"id": 72, "name": "Person 72", "email": "person72@example.com"}
+{"id": 73, "name": "Person 73", "email": "person73@example.com"}
+{"id": 74, "name": "Person 74", "email": "person74@example.com"}
+{"id": 75, "name": "Person 75", "email": "person75@example.com"}
+{"id": 76, "name": "Person 76", "email": "person76@example.com"}
+{"id": 77, "name": "Person 77", "email": "person77@example.com"}
+{"id": 78, "name": "Person 78", "email": "person78@example.com"}
+{"id": 79, "name": "Person 79", "email": "person79@example.com"}
+{"id": 80, "name": "Person 80", "email": "person80@example.com"}
+{"id": 81, "name": "Person 81", "email": "person81@example.com"}
+{"id": 82, "name": "Person 82", "email": "person82@example.com"}
+{"id": 83, "name": "Person 83", "email": "person83@example.com"}
+{"id": 84, "name": "Person 84", "email": "person84@example.com"}
+{"id": 85, "name": "Person 85", "email": "person85@example.com"}
+{"id": 86, "name": "Person 86", "email": "person86@example.com"}
+{"id": 87, "name": "Person 87", "email": "person87@example.com"}
+{"id": 88, "name": "Zoë Müller", "email": "person88@example.com"}
+{"id": 89, "name": "Person 89", "email": "person89@example.com"}
+{"id": 90, "name": "Person 90", "email": "person90@example.com"}
